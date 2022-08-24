@@ -12,10 +12,12 @@ I'm 26 years old Student of the Master’s Degree course in Artificial Intellige
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mimmo96&layout=compact)](https://github.com/mimmo96/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=mimmo96)
+
+
+
 <!--
-//![Mimmo Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=mimmo96&custom_title=Contribution&&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
+![Mimmo Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=mimmo96&custom_title=Contribution&&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
 
 --!>
-
-![](https://komarev.com/ghpvc/?username=mimmo96)
 
