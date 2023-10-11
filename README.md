@@ -3,7 +3,7 @@
 </h1>
 
 
-I'm 26 years old Student of the Master’s Degree course in Artificial Intelligence
+I'm 27 years old Student of the Master’s Degree course in Artificial Intelligence
 
  - 🧠 I’m currently learning Deep Learning models 
  - 😄 Pronouns: he/him
